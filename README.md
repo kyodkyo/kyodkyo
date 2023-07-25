@@ -1,5 +1,3 @@
-### Hello 👋
-
 <!--
 **kyodkyo/kyodkyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My Most User Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyodkyo&layout=compact&theme=tokyonight)
- 
+
+<h3 align="center">🍳 Back Tech Stack 🍳</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+</p>
+
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/Easy-Hwan">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyodkyo&layout=compact&theme=tokyonight)
+  </a>
+</p>
+
+### My Most Used Languages
+
