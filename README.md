@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <h3>💡 My Most Used Languages 💡</h3>
 <p>
   <a href="https://github.com/Easy-Hwan">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyodkyo&layout=compact&theme=tokyonight)
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyodkyo&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=tokyonightt" />
   </a>
 </p>
