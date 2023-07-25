@@ -13,18 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">🍳 Back Tech Stack 🍳</h3>
-<p align="center">
+<h3>🍳 Back Tech Stack 🍳</h3>
+<p>
    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
+<h3>💡 My Most Used Languages 💡</h3>
+<p>
   <a href="https://github.com/Easy-Hwan">
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyodkyo&layout=compact&theme=tokyonight)
   </a>
 </p>
-
-### My Most Used Languages
-
