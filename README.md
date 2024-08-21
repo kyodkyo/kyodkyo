@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/kyodkyo"/>
+</a>
+
 <!--
 **kyodkyo/kyodkyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
